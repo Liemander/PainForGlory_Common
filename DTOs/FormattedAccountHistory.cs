@@ -6,13 +6,9 @@ using System.Threading.Tasks;
 
 namespace PainForGlory_Common.DTOs
 {
-    public class PreviousAccountInfo
+    public class FormattedAccountHistory
     {
-        public int Id { get; set; }
-        public Guid UserAccountId { get; set; }
-        public string? OldUsername { get; set; }
-        public string? OldEmail { get; set; }
         public DateTime ChangedAt { get; set; }
+        public string FormattedText { get; set; } = string.Empty;
     }
-
 }

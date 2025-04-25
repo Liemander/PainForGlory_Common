@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PainForGlory_Common")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7657e6ad82ad664b3b782b1c4eaaa6864e543a37")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+02e9f13bbad02603139dd27dc94c3569a8fb9cc5")]
 [assembly: System.Reflection.AssemblyProductAttribute("PainForGlory_Common")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PainForGlory_Common")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
