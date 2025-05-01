@@ -10,3 +10,15 @@ F:\Development\Pain for Glory MMO\PainforGlory_Common\obj\Debug\net8.0\PainForGl
 F:\Development\Pain for Glory MMO\PainforGlory_Common\obj\Debug\net8.0\refint\PainForGlory_Common.dll
 F:\Development\Pain for Glory MMO\PainforGlory_Common\obj\Debug\net8.0\PainForGlory_Common.pdb
 F:\Development\Pain for Glory MMO\PainforGlory_Common\obj\Debug\net8.0\ref\PainForGlory_Common.dll
+F:\Development\Pain_for_Glory_MMO\PainforGlory_Common\bin\Debug\net8.0\PainForGlory_Common.deps.json
+F:\Development\Pain_for_Glory_MMO\PainforGlory_Common\bin\Debug\net8.0\PainForGlory_Common.dll
+F:\Development\Pain_for_Glory_MMO\PainforGlory_Common\bin\Debug\net8.0\PainForGlory_Common.pdb
+F:\Development\Pain_for_Glory_MMO\PainforGlory_Common\obj\Debug\net8.0\PainForGlory_Common.GeneratedMSBuildEditorConfig.editorconfig
+F:\Development\Pain_for_Glory_MMO\PainforGlory_Common\obj\Debug\net8.0\PainForGlory_Common.AssemblyInfoInputs.cache
+F:\Development\Pain_for_Glory_MMO\PainforGlory_Common\obj\Debug\net8.0\PainForGlory_Common.AssemblyInfo.cs
+F:\Development\Pain_for_Glory_MMO\PainforGlory_Common\obj\Debug\net8.0\PainForGlory_Common.csproj.CoreCompileInputs.cache
+F:\Development\Pain_for_Glory_MMO\PainforGlory_Common\obj\Debug\net8.0\PainForGlory_Common.sourcelink.json
+F:\Development\Pain_for_Glory_MMO\PainforGlory_Common\obj\Debug\net8.0\PainForGlory_Common.dll
+F:\Development\Pain_for_Glory_MMO\PainforGlory_Common\obj\Debug\net8.0\refint\PainForGlory_Common.dll
+F:\Development\Pain_for_Glory_MMO\PainforGlory_Common\obj\Debug\net8.0\PainForGlory_Common.pdb
+F:\Development\Pain_for_Glory_MMO\PainforGlory_Common\obj\Debug\net8.0\ref\PainForGlory_Common.dll
